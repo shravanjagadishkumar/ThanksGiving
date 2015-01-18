@@ -1,0 +1,4 @@
+2.4
+
+Each user can create a task and mark it as recurring daily, weekly or monthly.
+The user also gets a calendar widget to mark the date of when the task should be completed.

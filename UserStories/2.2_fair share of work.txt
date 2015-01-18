@@ -1,0 +1,3 @@
+2.2
+
+Each user can view the total points available in the group and total points he has received, and the UI will also display how many points the user needs to have to be doing fair share of work.

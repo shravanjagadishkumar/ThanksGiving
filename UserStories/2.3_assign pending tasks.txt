@@ -1,0 +1,3 @@
+2.3
+
+Each user can view the Pending tasks in the Assign task tab, and can assign that particular task to themseleves or others.

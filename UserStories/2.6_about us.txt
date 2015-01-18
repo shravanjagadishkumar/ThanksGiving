@@ -1,0 +1,3 @@
+2.6
+
+Each user can click on a About Us button to view details about the ThanksGiving application.

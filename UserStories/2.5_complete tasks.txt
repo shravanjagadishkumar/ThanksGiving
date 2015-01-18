@@ -1,0 +1,3 @@
+2.5
+
+Each user can mark the tasks assigned to thema s complete in the My Tasks tab.

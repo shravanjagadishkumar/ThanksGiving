@@ -1,0 +1,3 @@
+2.7
+
+Each user can click on the Logout button to exit the current session of the application.
